@@ -4,6 +4,7 @@
 
 ### Food and Goods Deliveries in Brazil
 
+
 ### What is the Delivery Center?
 With its various operational hubs spread across Brazil, the Delivery Center is a platform that integrates retailers and marketplaces, creating a healthy ecosystem for sales of goods (products) and food (food) in Brazilian retail.
 
