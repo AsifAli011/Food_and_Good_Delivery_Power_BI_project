@@ -2,7 +2,7 @@
 
 ## About Dataset
 
-### Food and Goods Deliveries in Brazil
+### Food and Goods Deliveries in Brazil (2021)
 
 
 ### What is the Delivery Center?
@@ -80,13 +80,24 @@ Dashboard:
 
 ![food3](https://github.com/user-attachments/assets/e45c1aa3-f16d-4043-868d-3ffca30e623e)
 
+### Conclusion:
+* As SAO PAULO city have highest order both in FOOD and GOOD, While PORTO ALEGRE city having lowest total order, the main reason I think is the number of store in that cities, SAO PAULO   having a higher number of store while PORTO ALEGRE having lower number of store.
+* With the High number of Total orders, SAO PAULO having high percentage of plain price as compare to the other which is about 49% due to high demand and strong delivery market, while with the low number of total order, RIO DE JANEIRO city having lowest percentage of plain price that is about 5%, due to fewer users/customers, Limited restaurant availability and New or developing  deliveries market.
+* As per Clusterd Bar Chart,  PURPLE SHOPPING hub having high total plain price, its mean PURPLE SHOPPING having Strong revenue potential, high activity but might be costly for customers. while AVENUE and BEACH SHOPPING hub have low total plain price, its mean AVENUE and BEACH SHOPPING having affordable, may attract budget buyers but possibly low sales or profit margins.
 
 
 ### To analyse the percentage of Driveres according to driver type and delivery status, Aslo analyse total order by driver type and deliveries by their deliveries status.
 
 Dashboard: 
 
-![food4](https://github.com/user-attachments/assets/69bc399b-7d49-42c5-b851-a7b9cd865308)
+![food4](https://github.com/user-attachments/assets/46ad0529-a497-47f2-900f-ec5f60881006)
+
+
+Conclusion:
+
+* As per Donut chart of drivers vs driver type , about 71% of driver work as FREELANCER as compare Logistics Operator which is 28% drivers which positive sign for the scalability, flexibility, and cost-efficiency of the deliveries market, but on the other side the negative sign is that of Less control over service quality,Inconsistent availability of drivers and Legal risks. 
+* As per donut chart of drivers verus deliveries status, abou 97% deliveries were Deilvered by drivers while 3% of delivering, so the deliveries marktet ensure not ay delay in deliveries.
+* As per bar chart chart of deliveries vs deliveries status , about 99% of  deliveries were delivered while the other 1% were cancelled is perfect sign for deliveries bit also  the deliveries market ensure what is the main factors of that 1% cancelled deliveries to reach deliveries upto 100% delivered.
 
 
 
